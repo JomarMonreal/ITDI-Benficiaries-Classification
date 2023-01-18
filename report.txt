@@ -1,0 +1,574 @@
+INDUSTRIAL TECHNOLOGY DEVELOPMENT INSTITUTE
+Beneficiaries as of Q1 2021
+
+ 
+
+Completion Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. Project Title Date Started Project Leader
+Original Revised
+1 |RDR-CED-2019-01 01-Jan-20 31-Dec-20 31-Mar-21 OC Evangelista |1. Okra farmers
+Natural Hydrocolloid as Alternative Emulsifier and 2. Food manufacturers
+Stabilizing Agent from Okra (Hibiscus esculentus) Pods 3. Okra importers
+2 |RDR-CED-2020-02 17-Feb-20 31-Dec-20 31-Mar-21 CA Bulan 1. Coconut farmers
+Processing of Anti-freezing Agent for Biodiesel 2. Biodiesel manufacturer
+3 |RDR-CED-2020-03 17-Feb-20 01-Jan-21 31-Mar-21 FE Del Pozo Jr. |1. MSMEs
+Development of Uninterruptible Power Back-Up System 2. Facilities that need power back-up system
+Using Motor Control for Lighting Applications as Sample
+Electrical Load
+4 |RDR-CED-2020-04 17-Feb-20 31-Dec-20 31-Mar-21 VFR Ablang 1. Rubber Industry
+Catalytic Hydrogenation and Transesterification of Highly 2. Biodiesel Industry
+Unsaturated Fatty Acids from Rubber Seed Oil 3. Energy Sector
+4. Academe and researchers
+5 |RDR-CED-2020-05 01-Jan-20 31-Dec-20 31-Mar-21 EA Ongo 1. Food Processing Industry
+Bench-scale Production of Curcumin from Philippine 2. Pharmaceutical Industry
+Turmeric using Different Extraction Methods 3. Chamber of Herbal Industries of the Philippines Inc.
+6 |RDR-CED-2021-01 01-Jan-21 31-Dec-21 CAG Bilbao 1. Adhesives manufacturer
+Isolation, characterization and utilization of waste lignin 2. Industries using adhesives
+in biobased adhesives 3. Industrial chemicals sector
+7 |RDR-CED-2021-02 01-Jan-21 31-Dec-21 FE Del Pozo Jr. |1. MSMEs
+Scale Up of Power Back-Up System for Large 2. Facilities that need power back-up system
+8 |RDR-CED-2021-03 01-Jan-21 31-Dec-21 JL Herrera 1. MMIC.
+Development of Microcontroller & Minicomputer 2. MSMEs using MMIC facilities
+Applications for Selected Equipment units of the MMIC.
+and a Bench-Scale Hydrothermal Carbonization
+Equipment of the CED Laboratory
+9 |RDA-CED-2020-02 1-Mar-2020 | 28-Feb-2022 OC Evangelista |1. Salt Producers
+Design and Prototyping of Salt Harvesting Machine
+10 |RDA-CED-2020-03 1-Aug-2020 31-Jul-2021 EA Ongo 1. Farmers
+Nanostructured Herbal Extract of Momordica charantia 2. Pharmaceutical industries
+(Bitter melon/Ampalaya), Allium sativum (Garlic) and 3. General public
+Curmuma longa L. (Turmeric) as Antidiabetic Agents.
+11 |RDA-CED-2021-01 08-Feb-21 08-Aug-22 AVO Bawagan |1. DOST agencies
+Deployment of Energy Monitoring Application and
+Network at DOST (DEMAND) as Demonstration Sites
+ENVIRONMENT AND BIOTECHNOLOGY DIVISION
+12 |RDR-EBD-2020-01 1-Jan-2020 | 31-Dec-2020 31-Mar-21 EG Panerio 1. MSMES
+Development of a Fermentation Product (Kimchi-Filipino 2. Vegetable farmers
+adaptation) from locally-grown vegetables using
+indigenous LAB isolates as starter culture
+13 |RDR-EBD-2020-03 1-Jan-2020 | 31-Dec-2022 UG Bigol 1. Pharmaceutical Industry
+Bioactive Substances from Actinomycetes Isolated from 2. Student and Professional researchers
+Different Sources
+Phase 1. Isolation and Screening of Actinomycetes from
+soil, soil/ plant litter and soil/ compost mixtures
+14 |RDR-EBD-2020-04 17-Feb-2020 | 31-Dec-2022 DL Herrera/ JT |1.LGUs & cluster barangays
+Development of an Improved In-vessel Composting Tuazon 2.Establishments with MRF
+System 3.Machine shops
+4.Communities
+15 |RDR-EBD-2020-05 17-Feb-2020 | 31-Dec-2021 CS Valdecanas |1. Small and large scale livestock and poultry houses in the Philippines
+Development of Air Biofilters for the Control of Ammonia 2. EIP Layer Farm
+16 |RDR-EBD-2020-06 17-Feb-2020 | 31-Dec-2021 JC Tejano 1.Semi-conductor Industry
+Dissolved Copper Removal from Semiconductor 2.Copper Plating Industry
+Wastewater Effluent by Electrowinning Process 3.Mining Industry
+4. Fertilizer Industry
+5. Battery Industry
+17 |RDR-EBD-2020-07 1-Mar-2020 | 31-Dec-2021 | 30-Jun-2021 DC Vergara 1. Inhabitants of areas prone to natural disasters;
+Upgrading of the Emergency Waster Disinfection System 2.Communities in rural areas with limited access to safe drinking water;
+3.Evacuation centers;
+4. LGUs
+18 |RDR-EBD-2021-01 1-Jul-2021 31-Dec-2021 PF Margarito |1. Local Swine Farms
+Development of an Algal-Bacterial (ALBA) Wastewater
+Treatment System
+19 |RDR-EBD-2021-02 1-Jan-2021 31-Dec-2022 JC Tejano 1. Industrial Technology Development Institute Laboratories.
+Surface-Madified Zeolite Adsorbent System for VOC
+Pollutants in ITDI Indoor Air Laboratories
+20 |RDR-EBD-2021-03 1-Jan-2021 31-Dec-2021 JB Guzman 1. Shrimp Farmers
+Biofilm inhibitory activity of Talisay (Terminalia catappa 2. Farmers of Talisay plant
+L.) leaf extract against shrimp pathogen Vibrio sp. and 3. Women Cooperatives and Feed Producers
+its potential as feed supplement
+21 |RDA-EBD-2020-01 14-Jul-2020 31-Jan-2021 RL Esguerra  |1. Local Government Units (LGUs)
+Integrated Mapping, Monitoring, Modelling and 2.Department of Public Works and Highways (DPWH)
+Management System for Manila Bay and Linked 3.Department of Environment and Natural Resources (DENR)
+Environments (IM4ManilaBay) 4.Laguna Lake Development Authority (LLDA)
+Project 3: Management of Dredge Material:
+Characterization, Treatment and Disposal (CharTed
+DreaM)
+22 |RDA-EBD-2020-02 1-Jul-2020 1-Mar-2021 12/1/2021 GM Sikat 1. Government
+Cataloging Possible Philippine Strains of Zika and For approval 2. Researchers
+African Swine Fever Viruses and Coconut Cadang- of PCHRD 3. Swine raisers.
+4
+
+ 
+
+Cadang Viroid through Genome Sequencing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Epidemiologists
+
+ 
+
+ 
+ 
+
+Completion Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. Project Title Date Started Project Leader Beneficiaries
+Original Revised
+23 |RDA-EBD-2019-05 15-Jul-2019 15-Jul-2020 | 30-Jun-2021 RL Retamar 1. Restaurants in Boracay
+Support to the Sustainable Environmental Managament 2. General public
+in Malay, Aklan
+Project 2: Development of a Compact Wastewater
+Treatment System for Restaurants in Boracay Island
+24 |RDR-FPD-2020-01 1-Apr-2020 | 31-Dec-2020 | 30-Jun-2021 MEM Falco 1. Food manufacturing industry (local food processors, exporters and
+Development of Alternative Techniques for Okra importers)
+Flakes/Sheets Processing 2. Farmers
+2 Seed teodl ina inti
+25 |RDR-F PD-2020-03 1-Jan-2020 | 31-Dec-2020 | 30-Jun-2021 | LS Montevirgen |1.MSMEs involved in bakery products
+Establishment of Food Safety System for High Risk 2. Policy makers/regulatory agencies
+Bakery Products for Public Consumption
+26 |RDR-F PD-2020-05 1-Sept-2020 | 30-May-2021 JC Ocsala 1. Cassava farmers
+Improving the Quality of Deep-Fat Fried Cassava Chips 2. Manufacturers of cassava chips
+27 |RDR-F PD-2020-06 1-Apr-2020 31-Dec-2020 | 30-Jun-2021 MDL Villasenor |1. Food industry
+Natural Flavorings from Local Sources as Food Additive
+Study 1: Optimization of Spray Drying of Flavors from
+Fermented Fish and Shrimps
+28 |RDR-F PD-2021-01 1-Jan-2021 31-Dec-2021 JC Ocalsa 1. Food Industry
+Modified Texturization Procedures of Restructured Fruits 2. Farmers
+for Thermal Processing Applications
+29 |RDR-FPD-2021-02 1-Jan-2021 31-Dec-2021 ME. Evaristo 1. MSMEs
+‘Thermal Process Validation of Traditional and Ethnic 2. Farm -based producers
+Bottled Products- Acidified-Pasterurized Vegatables 3. Restaurateurs
+(Ubod, Ampalaya and Mixed Vegatables) 4. Food safety specialists
+30 |RDR-F PD-2021-03 1-Jan-2021 31-Dec-2021 MEM FALCO |1. Food Industries manufcaturing meat and meat-based products.
+Antimicrobial Activity of Natural Food Ingredients (PDS)
+31 |RDR-FPD-2021-04 1-Apr-2021 31-Dec-2021 RT Barcala 1. MSMEs using the pilot plant facilities 2. R&D and/or Thermal team of
+Improvement of Functional Components of Existing FPD
+Horizontal Water Spray Retort
+32 [RDR-FPD-2021-05 1-Mar-2021 | 31-Dec-2022 MDL Villasenor |1. Coconut farmers
+Ultrasonic Assissted Extraction (UAE) and 2. Coconut Industry
+Microencapsulation of Virgin Coconut Oil (VCO): Study
+1: Development of UAE and Microencapsulation
+Processes.
+Study 2: Bench Scale Production of Three Processes.
+33 |RDR-F PD-2021-06 1-Jan-2021 31-Dec-2021 MBA Macaraeg |1.LGUs
+Development of New Shelf Stable Food Products from 2. SMEs
+Fruits, Grains and Vegetables (GAD Project Phase 3) 3. Areas affected by calamities and are in emergency situations
+34 |RDA-FPD-2018-03 1-Aug-2018 1-Aug-2018 | 31-Jan-2021 MEM Falco 1. Banana farmers and processors
+Establishment of Halal Assurance System for Processing 2. Muslim community
+Selected Banana Products (Banana Chips, Banana
+Catsup, and Frozen Banana)
+35 |RDA-FPD-2018-06 1-Aug-2018 1-Aug-2018 1-Jul-2021 ME Evarista 1. Producers of meat products
+Development of Emulsified Meat Products (Sausage, 2. Muslim community
+Nuggets and Burgers) for Halal Market
+36 ]RDA-FPD-2020-11 1-Jul-2020 30-Jun-2022 MME Falco 1. Farmers
+Plant Protein Products from Local Sources 2. MSMEs involved in food processing
+37 |RDA-FPD-2021-01 1-Jan-2021 31-Dec-2023 MME Falco 1. Muslim community
+Development of Halal Compliant Dehydrated Food 2. Food Manufactures of Halal Food
+Products from Selected Food Materials (Fruits,
+Vegetables and Rootcrops)
+38 |RDA-FPD-2021-02 1-Jan-2021 31-Dec-2021 LS Montervirgen |1. Muslim Community
+Establishment of Halal Assurance System For Selected 2. Food Manufacturers/processors
+Food Ingredients (Dried and Powdered Onions, Garlic, 3. Food Consumers
+BlackPepper and Chilli) 4. Food Exporter/importer of Halal food
+39 |RDA-FPD-2021-03 1-Oct-2020 | 30-Sept-2021 MDL.Villasenor |1. Consumers
+Development of Draft Standards and Recommended 2. Peanut Butter Processors.
+Code of Practice for Procerssing of Peanut Butter
+40 |RDA-FPD-2021-04 1-Nov-2020 31-Oct-2021 1-Feb-2021 [NG Ambagan and]|1. Consumers
+Developing the Capability of Micro-and Small-Scale MDL Villasenor |2. Cacao Farmers
+Processors on the Evaluation and Manufacture of Quality} 3. Food Industry
+Food Products from Philippine Cocoa Beans
+41 [RDA-FPD-2021-05 1-Mar-2021 1-Dec-2022 MDLVillasenor |1. Consumers
+Technical Support for DOST Regional Food Innovation 2. MSMEs
+Centers (rFICs) with 3 Sub-Projects/Studies 3. Farmers
+42 |RDA-FPD-2021-06 1-Mar-2021 1-Dec-2022 MDLVillasenor |1. Consumers
+Sub Project : 03 Development of Competence on 2. Food processors
+Establishment and Validation of Adequate Processes for
+Thermally Processed Food
+43 |RDA-FPD-2021-08 1-Jan-2021 1-Dec-2022 NG Ambagan_ |1. Consumers
+Thermal Processing of Selected Materials Using 2. Food processors
+Agitated-Type Retort
+44 |RDA-FPD-2021-09 1-Apr-2021 31-Mar-2023 RM Gomez 1. Sugar manufacturers 2 Farmers
+Production of Dietary Fiber using Sugarcane Bagasse
+from Raw Sugar Manufacturing
+45 |RDR-MSD-2021-01 1-Jan-2021 31-Dec-2021 MCO Que/JR_ | Local industry sectors such as production/manufacturing industries
+3D-Printed Carbon-based Flexible Piezoresistive Celorico
+Wearable Sensor for Smart Device Gesture to Speech
+Applications - Year 1
+46 |RDR-MSD-2021-02 1-Jan-2021 31-Dec-2021 JR Celorica / AK |1. Mining Industry.
+Porous Nanocarriers for Drug Delivery Applications - Collera 2. Local industry sectors such as production and manufacturing industries
+Year 2
+47 |RDR-MSD-2021-03 1-Jan-2021 31-Dec-2021 PAN de Yro 1. Local Magnetite miners for added value product from local resource
+
+ 
+
+Superparamagnetic lron Oxide Nanoparticles (SPIONS)
+from Natural Mineral Deposits for Industrial and
+Biomedical Applications - Phase 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Contribute to science particularly to cancer treatment research
+
+ 
+
+ 
+ 
+
+Completion Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. Project Title Date Started Project Leader Beneficiaries
+Original Revised
+48 |RDR-MSD-2021-04 1-Jan-2021 31-Dec-2021 CS Emolaga/ |1. Medical practitioners (Hospitals and Community Health Service Centers
+Development of an Antimicrobial Wound Dressing from MA Paglicawan |2. Bacterial Cellulose Producers
+Bacterial Cellulose-Nanoclay composite 3. Nanoclay Producers
+4. Local government Units
+5. Manufacturers for wound dressings
+6. Researchers {i.¢. academic, institutional) in the biomedical field
+49 |RDR-MSD-2021-05 1-Jan-2021 31-Dec-2021 MT Margarito 1. Automotive industry
+Development of Bioinspired Composite Membrane 2. Academe
+Separators for Advanced Rechargeable Lithium-ion
+Batteries - Phase 1: Fabrication of Bioinspired
+Composite Membrane Separators from Abaca Fibers
+50 |RDA-MSD-2019-01 1-Jan-2018 | 31-Dec-2021 BA Basilia 1. Automotive Industry
+Program: Advanced Additive Manufacturing R & D 2. Manufacturing industry
+Project 1: Development of Multiple Materials Platform for 3. Researchers in the field of materials, design, fabrication and construction
+Additive Manufacturing (MATDEV)
+51 |RDA-MSD-2018-02 1-Jun-2018 | 31-Mar-2021 | 31-May-2021 BA Basilia 1. Manufacturers
+Environment, Health and Safety Research on the Risk 2. End-users of nanotechnolagy-based materials and products.
+Assessment of Nanomaterials
+52 |RDA-MSD-2021-01 1-Jan-2021 | 31-Dec-2021 AM Monsada = |1. Semiconductor Industries
+[ADMATEL Expansion towards Long Term 2. Chemical Industries
+Competitiveness and Sustainability- Phase 2: ADMATEL 3. Allied Industries
+geared for PHL Industry 4.0 4. Academe
+5. Government Institutions
+53 |RDR-PTD-2019-06 1-Jun-2019 | 31-Dec-2019 | 30-Jun-2021 RAG Garalde |1. End users/general public
+Development of Intelligent Packaging Colorimetric 2. Packagaing traders
+Sensor as Total Volatile Base Nitrogen (TVBN) Indicator 3. MSMEs
+54 |RDR-PTD-2020-01 1-Jan-2020 | 31-Dec-2020 | 30-Jun-2021 CT Saldafia 1. Philippine community in general
+Development and Assessment of bacterial cellulose
+derived from fruit waste as a bio-based plastic film
+55 |RDR-PTD-2020-02 1-Jan-2020 | 31-Dec-2020 | 31-Mar-2021 C Bihis 1. Consumers/general public
+Establishment of Shelf Life and Safety of Chilled Ready 2. Producers/manufacturers of chilled RTH meal
+to Heat and Freshly Cooked Ready to Eat Foods Sold in 3. Owners of convenience stores and supermarkets
+Convenience Stores and Delivery Service
+56 |RDR-PTD-2020-03 16-Jan-2020 | 15-Jan-2021 17-Jul-2021 DUI Ortiz 1. Crop producers/farmers
+Shelf life extension of Fresh-cut pineapple application of 2. MSMEs, specially food companies in the fresh-cut industry
+alginate-based edible coating with lemongrass essential
+oil
+57 |RDR-PTD-2020-04 1-Jan-2020 30-Jun-2021 | 30-Sep-2021 MJP Paico 1. Packaging manufacturers
+Development of anti-oxidant film based on chitosan 2. MSMEs engaged in meat industry or other related products prone to
+containing spent ground coffee extract (¥1) liped oxidation
+58 |RDR-PTD-2020-05 14-Jun-2020 31-Oct-2021 | 30-Nov-2021 DJ Alearde, Jr. |1. General public
+Exposure assessment of Filipino Consumers to 2. Food packaging manufacturers, MSMEs and dealers
+benzophenones migrated from paper and paperboard
+used as packaging for food and beverages (Y1)
+59 |RDR-PTD-2021-01 1-Apr-2021 31-Dec-2021 KJR Dizon 1.PTD
+Application of Eye-Tracking Technology for evaluating 2. PTD customers
+packaging design impact on consumers
+60 |RDR-PTD-2021-02 1-Apr-2021 31-Dec-2021 ET Nolasco 1. Transport delivery service / logistics companies
+Development of random vibration test 2. General Public
+procedures/methods using Acquired shock and vibration
+data in the last leg delivery of small products within
+Metro Manila
+61 |RDR-PTD-2021-03 1-Apr-2021 31-Mar-2022 C Bihis 1. Local food manufaturers
+Quality and Safety Monitoring of Chilled Ready to 2. Consumers
+Heat/Eat Foods Using Intelligent Packaging with Time
+‘Temperature Indicators
+62 |RDR-PTD-2021-04 1-Apr-2021 31-Mar-2023 GD Noceja 1. Survivors and service providers of any calamity might it be natural, man-
+Development of Three (3) New RTE Disaster Relief made and pandemic.
+Foods for Vulnerable Groups (elderly and children) 2. Local food manufacturers
+63 |RDR-PTD-2021-05 1-Jul-2021 31-Dec-2022 MJP Paico 1. Packaging manufacturers
+Utilization of Mango and Calamansi Peel for the 2. General Public
+Production of Biofilms and its Application on Fresh 3. MSMEs
+Produce
+64 |RDR-PTD-2021-06 41-Jul-2021 28-Feb-2023 HE Armario 1. Manufacturers and distributors of metal closures
+Preliminary Study on Epoxidized Soybean Oil Migrating 2. Manufacturers of bottled sardines and bottled bangus in oil
+from Metal Closure into Bottled Spanish-Style Sardines 3. Consumers
+65 |RDR-PTD-2021-07 1-Jul-2021 Dec.31, 2022 ES Orendain |1. Mangosteen farmers/growers in the Philippines.
+Effect of Shock and Vibration on the Quality and Shelf 2. Wholesalers/retailers/exporters of fresh fruits
+Life of Mangosteen Sourced from Davao (Phase 2)
+66 |RDA-PTD-2016-04 1-Dec-2016 | 30-Nov-2017 | 31-Jul-2021 DET Tafiafranca }1. Manufacturing Industries
+Upgrading and Enhancing the Capacity of the Packaging 2. Packaging Industry
+‘Technology Division in Packaging Research and
+Innovation
+67 |RDA-PTD-2021-01 1-Feb-2021 31-Jan-2023 FV Loberiano = |1. Philippine Army soldiers and/or trainees2. Philippine National Police
+Development and Field Testing of Retort Foods as Food
+Ration for Men in Uniform during Combat Operations
+and Other High Risk Operations
+68 |RDA-PTD-2021-02 16-Apr-2021 15-Feb-2023 DET Tafiafranca }1. Durain growers/processors
+Pilot Testing of Packaging Technology Developed for
+Frozen Durian using Locally Produced Packaging
+Materials
+69 |RDA-PTD-2021-03 1-May-2021 30-Apr-2023 DET Tafiafranca |1. Farmers/growers in Benguet, Nueva Viscaya, Tarlac and Davao
+
+ 
+
+Upgrading of capability of distribution centers/ trading
+posts in the delivery of fresh and semi-processed
+agricultural products in the supply chain: Focusing on
+packaging technology and logistics
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Consumers
+
+ 
+
+ 
+ 
+
+Completion Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. Project Title Date Started Project Leader Beneficiaries
+Original Revised
+70 |LFP-2020-PMISD-01 1-Jan-2020 | 31-Dec-2022 ZV Ang 1. DOST-ITDI employees
+ITDI Information Technology Capability Enhancement 2. DOST-ITDI clients
+and Sustainability
+71 |RDA-PMISD-2021-01 1-Jan-2021 30-Jun-2022 ZV Ang 1. BOST Regional Offices
+Development of FIC Competency in Moving New 2. MSMEs
+Products from Concept to Market Launch
+72 |RDR-TSD-2020-01 1-Jan-2020 | 31-Dec-2020 | 30-Jun-2021 CLMOICO 1. MSMEs
+Market Testing of FIC Technologies/Products through 2. Food Processing Industry
+collaboration with existing adopters
+73 |RDR-STD-2021-01 1-Jan-2021 31-Dec-2021 MRV Parcon 1. Food Manufacturing Companies
+Development and Validation of HPLC Methods for Food 2. Research and Development Sectors - the R&D Sectors from different
+Samples. government (DOST, DOH, FDA) and private institutions
+3. Academe
+4. Department of Health
+5. Food and Drug Administration
+74 |RDR-STD-2021-02 1-Jan-2021 31-Dec-2021 ARC Dablio 1. Inorganic Chemistry Section, Chemistry Laboratory, Standards and
+Development of Soil Quality Control Material for As, Cd, Testing Division, DOST-ITDI
+Hg, and Pb 2. Private Laboratories and DOST Regional Testing Laboratories
+75 |RDA-2019-STD-01 4-Nov-2019 | 30-Sep-2021 CM Ochona 1. Industries, academe and other stakeholders in need of biological testing
+Upgrading of ITDI-Laboratory Animal Facilities in Support 2. Department of Science and Technology Programs
+for Tuklas Lunas and Other DOST Programs, and
+Industry Needs
+76 |RDA-2021-STD-02 1-Feb-2021 31-Jan-2022 DOST IX 1. Micro, small and medium enterprises (MSMEs)
+‘Towards Leveling-up OneLab for Research, AR Dablio 2. State Universities and Colleges (SUCs)
+Development and Innovation (Coordinator) |3. Local Government Units (LGUs)
+4. Construction Industry
+5. Local Cassava Farmers
+6. Food Processing Innovation Centers
+7. Academe
+77 |RDA-2021-STD-03 1-Jan-2021 Dec 31, 2021 RC Torres 1. Local Producers of Beet Root, Dragon Fruit and Blue Ternate/Pea
+Scale-up Production, Stability, and Application of Natural 2. Cosmetics/Personal Care Industry
+Colorants for Cosmetics
+Enhancement of the Competence and Capabi s_of the National Metrology Laboratory of the Philippine:
+78 |RDRD-2017-NMD-01 1-Jan-2017 | 31-Dec-2021 Dr. BenildaS. |1. Regional Metrology Laboratories
+Project 1 : Chemical Metrology for Organic Contaminants| Ebarvia 2. Testing Laboratories (use of Reference Materials)
+in Food and Water
+79 |RDRD-2017-NMD-02 1-Jan-2017 | 31-Dec-2021 Alleni B. Tongson }1. Regional Metrology Laboratories
+Project 2 : Chemical Metrology for Inorganic Toxic 2. Testing Laboratories (use of Reference Materials)
+Elements in Food and Water
+80 |RDRD-2017-NMD-03 1-Jan-2017 | 31-Dec-2021 Marlon S. A. 1. Regional Metrology Laboratories
+Project 3 : Biological Metrology for Microorganisms in Antonio 2. Testing Laboratories (use of Reference Materials)
+Food
+81 |RDRD-2017-NMD-04 1-Jan-2017 | 31-Dec-2021 Kiveen P. 1. DOST Regional Metrology Laboratories and Private Calibration
+Project 4: Strengthening the Physical Metrology Suycano Laboratories
+Capabilities of the National Metrology Laboratory (NML) 2. R & D Laboratories and Academia
+3. Manufacturing Industries
+4. Regulatory Bodies / Agencies.
+5. The Consumers and the General Public
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
